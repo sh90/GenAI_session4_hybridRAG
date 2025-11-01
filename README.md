@@ -1,4 +1,4 @@
-# 🧠 GenAI Module — Session 3  
+# 🧠 GenAI Module — Session 4
 ### *Generative AI and Agentic AI Basics*
 
 ---
@@ -69,7 +69,6 @@ Add your keys or credentials inside the `.env` file as required.
 ### 🚀 Step 7: Run the Application
 
 ```bash
-streamlit run .\vanilla_rag\streamlit_app_langchain.py
 streamlit run .\hybrid_rag\streamlit_app_hybrid_rag.py
 ```
 
